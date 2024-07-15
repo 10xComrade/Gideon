@@ -12,7 +12,6 @@ var GlobalConfig *Config
 type Config struct {
 	BotToken      string `yaml:"bot_token"`
 	NewsAPIToken  string `yaml:"newsapi_token"`
-	AutoReconnect bool   `yaml:"auto_reconnect"`
 	Proxy         struct {
 		Enabled bool   `yaml:"enabled"`
 		URL     string `yaml:"url"`
