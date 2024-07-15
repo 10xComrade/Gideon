@@ -17,47 +17,47 @@ relevant news for you! Soon, it will offer even more features.
 
 # Getting Started
 
-1. **Create API Tokens**:
-   - Obtain a Telegram bot API token by creating a bot using BotFather.
-   - Generate a NewsAPI API token from https://newsapi.org.
+**1. Create API Tokens**
+- Obtain a Telegram bot API token by creating a bot using BotFather.
+- Generate a NewsAPI API token from https://newsapi.org.
 
-2. **Clone & Configure**
-   - Clone the project:
-     ```
-     git clone https://github.com/10xComrade/Gideon.git
-     ```
-   - Change directory:
-     ```
-     cd Gideon
-     ```
-   - Open the configuration file with a text editor:
-     ```
-     nano ./config/config.yaml
-     ```
-   - Insert your API tokens in the appropriate places.
-   - Optionally, adjust other configuration parameters like proxies.
-   - Save your changes.
+**2. Clone & Configure**
+- Clone the project
+ ```
+ git clone https://github.com/10xComrade/Gideon.git
+ ```
+- Change directory:
+ ```
+ cd Gideon
+ ```
+- Open the configuration file with a text editor:
+ ```
+ nano ./config/config.yaml
+ ```
+- Insert your API tokens in the appropriate places.
+- Optionally, adjust other configuration parameters like proxies.
+- Save your changes.
 
-3. **Start the Bot**
+**3. Start the Bot**
 
-4. **Using the Bot and Commands**
+**4. Use the Bot and Commands**
 - Available commands:
   - `/news`
-  - `/start` (Customizable in the source code)
-  - `/help` (Customizable in the source code)
-
+  - `/start` (Customizable output)
+  - `/help`  (Customizable output)
+    
 - Command format:
-  ```
-  /news <SUBJECT> <SORT-BY> <RESULT-NUMBER (default is 0)>
-  ```
+```
+/news <SUBJECT> <SORT-BY> <RESULT-NUMBER (default is 0)>
+```
 
 - Examples:
-  ```
-  /news bitcoin relevancy 0
-  ```
-  ```
-  /news tesla publishedAt 0
-  ```
+```
+/news bitcoin relevancy 0
+```
+```
+/news tesla publishedAt 0
+```
 
 
 # Limitations & Notes :
