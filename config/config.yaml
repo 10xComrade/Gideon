@@ -1,6 +1,6 @@
 bot_token : <TELEGRAM-API-TOKEN> 
 newsapi_token : <NEWSAPI-API-TOKEN>
 proxy : 
-  enabled : true 
+  enabled : false 
   url : "socks5://127.0.0.1:1080"
 
