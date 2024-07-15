@@ -40,7 +40,7 @@ relevant news for you! Soon, it will offer even more features.
 
 **3. Start the Bot**
 
-**4. Use the Bot and Commands**
+**4. Use the Bot Commands**
 - Available commands:
   - `/news`
   - `/start` (Customizable output)
@@ -77,6 +77,12 @@ relevant news for you! Soon, it will offer even more features.
    we primarily extract content from <p> HTML tags,
    which may include gibberish and extra tags.
    Future updates will address this issue for improved accuracy.
+
+# Contributions : 
+If you encounter any problems or bugs with the project
+or if you are interested in contributing,
+please open an issue to let me know about your idea,
+solution, or the problem you encountered.
 
 # Donations : 
 
