@@ -74,7 +74,7 @@ relevant news for you! Soon, it will offer even more features.
 
  - **Note 3 :**
    Gideon gathers news using a scraping method. Currently,
-   we primarily extract content from <p> HTML tags,
+   we primarily extract content from `p` HTML tags,
    which may include gibberish and extra tags.
    Future updates will address this issue for improved accuracy.
 
