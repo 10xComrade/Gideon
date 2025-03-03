@@ -83,8 +83,3 @@ If you encounter any problems or bugs with the project
 or if you are interested in contributing,
 please open an issue to let me know about your idea,
 solution, or the problem you encountered.
-
-# Donations : 
-
-<img src="https://cdn3d.iconscout.com/3d/premium/thumb/toncoin-cryptocurrency-11686732-9554882.png" width="28em" height="28em"> **TON :** UQA8_IbtMCppzfem1_Y3QfqLR1x-pdNhlNycTCqoLa_oS7BQ
-
